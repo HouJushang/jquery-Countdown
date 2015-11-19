@@ -3,7 +3,8 @@
 支持点击按钮前事件，和倒计时前事件！方面使用者添加表单验证和后台数据对接！
 ##运行demo
 git clone https://github.com/HouJushang/jquery-Countdown.git
-然后 打开 index.html 就可以了
+然后 打开 index.html 就可以了<br>
+线上<a href="http://www.41js.com/demo/countdown/index.html">demo</a>
 ##demo代码解析
 ```html
 <!DOCTYPE html>
