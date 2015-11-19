@@ -4,7 +4,7 @@
 ##运行demo
 git clone https://github.com/HouJushang/jquery-Countdown.git
 然后 打开 index.html 就可以了<br>
-线上<a href="http://www.41js.com/demo/countdown/index.html" target="_blank">demo</a>
+线上<a href="http://www.41js.com/demo/jquery-Countdown/index.html" target="_blank">demo</a>
 ##demo代码解析
 ```html
 <!DOCTYPE html>
