@@ -1,6 +1,9 @@
 # jquery-Countdown
 按钮倒计时，防止多次提交后台
-##demo代码
+##运行demo
+git clone https://github.com/HouJushang/jquery-Countdown.git
+然后 打开 index.html 就可以了
+##demo代码解析
 ```html
 <!DOCTYPE html>
 <html lang="en">

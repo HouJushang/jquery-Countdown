@@ -1,0 +1,19 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "按钮倒计时，防止多次提交",
+  "main": "jquery-countdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HouJushang/jquery-Countdown.git"
+  },
+  "author": "Hou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HouJushang/jquery-Countdown/issues"
+  },
+  "homepage": "https://github.com/HouJushang/jquery-Countdown#readme"
+}
