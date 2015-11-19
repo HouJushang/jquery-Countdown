@@ -25,6 +25,7 @@ git clone https://github.com/HouJushang/jquery-Countdown.git
         befor: function(){
             //可以执行表单验证
             if(confirm('表单验证是否成功')){
+                $('button').text('loading....');
                 return true; //表单验证执行成功 触发按钮事件
             }else{
                 return false;
